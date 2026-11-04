@@ -1,104 +1,113 @@
-# BIZFLOWUP
-### Powering Every Business.
 <p align="center">
-  <img src="[https://github.com/BakeWeb-India/.github/raw/main/Images/bakweb-logo.png](https://github.com/BizFlowUp/.github/blob/main/Images/BizFlowUp-Banner.jpeg)" alt="BIZFLOWUP" width="500">
+  <img src="https://github.com/BizFlowUp/.github/raw/main/Images/BizFlowUp-Banner.jpeg" alt="BIZFLOWUP: Powering Every Business" width="100%">
+</p>
+
+<h1 align="center">BIZFLOWUP</h1>
+
+<p align="center">
+  <strong>Powering Every Business.</strong><br>
+  One ecosystem. Connected solutions. Limitless possibilities.
 </p>
 
 <p align="center">
-  <strong>One ecosystem. Connected solutions. Limitless possibilities.</strong>
+  <a href="https://bizflowup.com"><img src="https://img.shields.io/badge/Website-bizflowup.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/BizFlowUp"><img src="https://img.shields.io/badge/GitHub-BizFlowUp-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/sundial-lab"><img src="https://img.shields.io/badge/Sundial_Lab-Engineering-F5A623?style=for-the-badge" alt="Sundial Lab"></a>
+  <a href="https://github.com/BakeWeb-India"><img src="https://img.shields.io/badge/BakeWeb-Development-E4572E?style=for-the-badge" alt="BakeWeb"></a>
 </p>
 
 <p align="center">
-  Building modern, scalable and intelligent business software to help organizations work smarter, operate efficiently and grow confidently.
-</p>
-
-<p align="center">
-  <a href="https://bizflowup.com"><strong>🌐 Official Website</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/BizFlowUp"><strong>💻 GitHub Organization</strong></a>
+  Modern, scalable and intelligent business software that helps organizations
+  work smarter, operate efficiently and grow with confidence.
 </p>
 
 ---
 
 ## 🚀 The BIZFLOW Ecosystem
 
-BIZFLOWUP is building an integrated family of business applications designed to simplify operations, connect teams and bring essential business tools together.
+An integrated family of business applications that brings operations, teams and
+essential tools together, built to be accessible and practical for organizations
+of every size.
 
-Our vision is to make powerful business technology accessible, flexible and practical for organizations of every size.
+| Product | What it does | Status |
+|---|---|---|
+| **BIZFLOW ERP** | Enterprise resource planning and core business operations | 🔨 In development |
+| **BIZFLOW CRM** | Customer relationships, sales pipeline and engagement | 🗺️ Planned |
+| **BIZFLOW HR** | Human resources and workforce management | 🗺️ Planned |
+| **BIZFLOW Finance** | Accounting, billing and financial operations | 🗺️ Planned |
+| **BIZFLOW AI** | Intelligent automation and AI-powered workflows | 🗺️ Planned |
 
-| Product | Purpose |
-|---|---|
-| **BIZFLOW ERP** | Enterprise resource planning and business operations |
-| **BIZFLOW CRM** | Customer relationships, sales and engagement |
-| **BIZFLOW HR** | Human resources and workforce management |
-| **BIZFLOW Finance** | Financial operations and management |
-| **BIZFLOW AI** | Intelligent automation and AI-powered workflows |
+> *Products, features and timelines are subject to change as development progresses.*
 
-*Products and capabilities are subject to development and release.*
+---
 
 ## ✨ What We're Building
 
-- **Connected Business Operations** — Bring business processes into one ecosystem.
-- **Intelligent Automation** — Reduce repetitive work and improve productivity.
-- **Modular Architecture** — Adopt the tools your organization needs.
-- **Scalable Technology** — Build for growing businesses and evolving requirements.
-- **Open Technology Foundations** — Leverage established open-source technologies while developing our own product experiences.
+| | |
+|---|---|
+| 🔗 **Connected Operations** | Every business process in one ecosystem |
+| 🤖 **Intelligent Automation** | Less repetitive work, more productivity |
+| 🧱 **Modular Architecture** | Adopt only the tools you need |
+| 📈 **Scalable Foundations** | Built for growing, evolving businesses |
+| 🔓 **Open Technology** | Proven open-source foundations with our own product experience on top |
 
-## 🧩 Our Technology & Brand Ecosystem
+---
 
-BIZFLOWUP brings together distinct identities that contribute to the broader technology ecosystem.
+## 🧩 Brands Behind the Platform
 
-### Sundial Lab
-<p align="left">
-  <img src="https://github.com/sundial-lab/.github/raw/main/Images/sundial-lab-logo.jpeg" alt="Sundial Lab" width="180">
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/sundial-lab">
+        <img src="https://github.com/sundial-lab/.github/raw/main/Images/sundial-lab-logo.jpeg" alt="Sundial Lab" height="90">
+      </a>
+      <h3>Sundial Lab</h3>
+      <p>The framework identity and engineering foundation behind the platform.</p>
+      <a href="https://github.com/sundial-lab">Explore Sundial Lab →</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/BakeWeb-India">
+        <img src="https://github.com/BakeWeb-India/.github/raw/main/Images/bakweb-logo.png" alt="BakeWeb" height="90">
+      </a>
+      <h3>BakeWeb</h3>
+      <p>Technology development, digital solutions and implementation.</p>
+      <a href="https://github.com/BakeWeb-India">Explore BakeWeb →</a>
+    </td>
+  </tr>
+</table>
 
-Framework identity and engineering foundation behind the platform.
+---
 
-[Explore Sundial Lab →](https://github.com/sundial-lab)
+## 🛠️ Engineering Principles
 
-### BakeWeb
-<p align="left">
-  <img src="https://github.com/BakeWeb-India/.github/raw/main/Images/bakweb-logo.png" alt="BakeWeb" width="180">
-</p>
+- **Practical** – designed around real business workflows
+- **Reliable** – built for stability and long-term maintainability
+- **Flexible** – adaptable across industries and requirements
+- **Secure** – developed with responsible security practices
+- **Extensible** – ready for integrations, automation and future growth
 
-Technology development, digital solutions and implementation.
-
-[Explore BakeWeb →](https://github.com/BakeWeb-India)
-
-## 🛠️ Our Approach
-
-We believe business software should be:
-
-- **Practical:** Designed around real business workflows.
-- **Reliable:** Built with maintainability and stability in mind.
-- **Flexible:** Adaptable to different industries and business requirements.
-- **Secure:** Developed with responsible security practices.
-- **Extensible:** Ready for integrations, automation and future innovation.
+---
 
 ## 🌱 Open Source & Collaboration
 
 We value the open-source ecosystem and the developers who make it stronger.
+This organization focuses on BIZFLOW-branded products, custom applications,
+integrations and supporting tooling.
 
-Our organization focuses on BIZFLOW-branded products, custom applications, integrations, tools and supporting development.
+Upstream projects remain maintained by their original owners, and we respect
+their licenses, copyrights and contribution guidelines.
 
-Upstream projects and their original repositories remain maintained by their respective owners. We respect their licenses, copyrights and contribution guidelines.
-
-We welcome collaboration, ideas, feedback and contributions as the ecosystem grows.
-
-## 🤝 Connect With Us
-
-<p align="center">
-  <a href="https://bizflowup.com">Website</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/BizFlowUp">GitHub</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/sundial-lab">Sundial Lab</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/BakeWeb-India">BakeWeb</a>
-</p>
+Ideas, feedback and contributions are welcome. Open an issue or start a
+discussion in the relevant repository.
 
 ---
+
+<p align="center">
+  <a href="https://bizflowup.com">Website</a> ·
+  <a href="https://github.com/BizFlowUp">GitHub</a> ·
+  <a href="https://github.com/sundial-lab">Sundial Lab</a> ·
+  <a href="https://github.com/BakeWeb-India">BakeWeb</a>
+</p>
 
 <p align="center">
   <strong>BIZFLOWUP</strong><br>
